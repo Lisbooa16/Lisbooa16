@@ -36,3 +36,5 @@
 ## ✅ Entre em contato! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/guilherme-lisboa-5b6a52190/)
+
+![Snake animation](https://github.com/Lisbooa16)

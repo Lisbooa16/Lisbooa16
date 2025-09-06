@@ -4,9 +4,9 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-> - 👋 Me chamo **Guilherme Lisboa**, tenho 22 anos.
+> - 👋 Me chamo **Guilherme Lisboa**, tenho 25 anos.
 > - 📌  De São Paulo, Brazil.
-> - 🎓 Cursando Análise e desenvolvimento de sistemas na Impacta. 
+> - 🎓 Formado em Análise e desenvolvimento de sistemas na Impacta e Gestao da tecnologia da infromação na Unip. 
 > - 🎓 Sou formado em Diversos **Cursos Online([Certificados](https://github.com/Lisbooa16/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidatas**! 
 > - 💬 Pergunte-me sobre **Python**, posso te ajudar!
 > - 🔭 Curiosidades: Gamer.
